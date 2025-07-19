@@ -1,7 +1,10 @@
 package main
 
-import "MetaNodeTask/task1"
+import (
+	"MetaNodeTask/task1"
+	"fmt"
+)
 
 func main() {
-	println(task1.LongestCommonPrefix([]string{"flower", "1"}))
+	fmt.Println(task1.PlusOne([]int{9}))
 }
