@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(task1.PlusOne([]int{9}))
+	fmt.Println(task1.RemoveDuplicates([]int{1, 1, 2, 2, 9, 9}))
 }
