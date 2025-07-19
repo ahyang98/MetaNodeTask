@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(task1.RemoveDuplicates([]int{1, 1, 2, 2, 9, 9}))
+	fmt.Println(task1.TwoSum([]int{3, 2, 4}, 6))
 }
