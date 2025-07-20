@@ -3,5 +3,5 @@ package main
 import "MetaNodeTask/task2"
 
 func main() {
-	task2.TestGoroutine()
+	task2.TestEmployee()
 }
