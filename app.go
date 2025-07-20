@@ -1,10 +1,7 @@
 package main
 
-import (
-	"MetaNodeTask/task1"
-	"fmt"
-)
+import "MetaNodeTask/task2"
 
 func main() {
-	fmt.Println(task1.TwoSum([]int{3, 2, 4}, 6))
+	task2.TestGoroutine()
 }
