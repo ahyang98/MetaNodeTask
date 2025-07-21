@@ -1,7 +1,9 @@
 package main
 
-import "MetaNodeTask/task2"
+import (
+	"MetaNodeTask/task3"
+)
 
 func main() {
-	task2.TestAtomic()
+	task3.TestBook()
 }
