@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	task3.TestBook()
+	task3.TestGorm()
 }
